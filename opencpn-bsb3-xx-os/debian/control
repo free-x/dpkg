@@ -1,0 +1,46 @@
+Source: opencpn-bsb3-xx-os
+Section: non-free/misc
+Priority: extra
+Maintainer: free-x <oss.boating@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://www.opencpn.org
+#Vcs-Git: git://git.debian.org/collab-maint/opencpn.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/opencpn.git;a=summary
+
+Package: opencpn-bsb3-xx-balt01
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts for BALT01.
+
+Package: opencpn-bsb3-xx-balt02
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts for BALT02.
+
+Package: opencpn-bsb3-xx-balt03
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts for BALT03.
+
+Package: opencpn-bsb3-xx-balt04
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts for BALT04.
+
+Package: opencpn-bsb3-xx-balt051
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts for BALT051.
+
+Package: opencpn-bsb3-xx-balt052
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts for BALT052.
+
+Package: opencpn-bsb3-xx-balt06
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts for BALT06.
+
+
