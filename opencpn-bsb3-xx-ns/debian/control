@@ -1,0 +1,30 @@
+Source: opencpn-bsb3-xx-ns
+Section: non-free/misc
+Priority: extra
+Maintainer: free-x <oss.boating@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://www.opencpn.org
+#Vcs-Git: git://git.debian.org/collab-maint/opencpn.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/opencpn.git;a=summary
+
+Package: opencpn-bsb3-xx-de10
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts German Bight Set10.
+
+Package: opencpn-bsb3-xx-de11
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts German Bight Set11.
+
+Package: opencpn-bsb3-xx-de12
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts German Bight Set12.
+
+Package: opencpn-bsb3-xx-de13
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts German Bight Set13.
+
