@@ -28,3 +28,8 @@ Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts German Bight Set13.
 
+Package: opencpn-bsb3-xx-dk09
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts North Sea Set09.
+
