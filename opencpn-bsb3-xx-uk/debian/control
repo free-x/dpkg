@@ -1,0 +1,35 @@
+Source: opencpn-bsb3-xx-uk
+Section: non-free/misc
+Priority: extra
+Maintainer: free-x <oss.boating@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://www.opencpn.org
+#Vcs-Git: git://git.debian.org/collab-maint/opencpn.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/opencpn.git;a=summary
+
+Package: opencpn-bsb3-xx-uk1
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts UK Set1.
+
+Package: opencpn-bsb3-xx-uk2
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts UK Set2.
+
+Package: opencpn-bsb3-xx-uk3
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts UK Set3.
+
+Package: opencpn-bsb3-xx-uk4
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts UK Set4.
+
+Package: opencpn-bsb3-xx-uk5
+Architecture: all
+Depends: opencpn
+Description: BSB3/KAP RNC Charts UK Set5.
+
