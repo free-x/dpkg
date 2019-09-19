@@ -12,24 +12,30 @@ Package: opencpn-bsb3-xx-de10
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts German Bight Set10.
+  Nordfriesland - Sylt bis Helgoland & Eider
 
 Package: opencpn-bsb3-xx-de11
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts German Bight Set11.
+  Elbe - Helgoland bis Hamburg
 
 Package: opencpn-bsb3-xx-de12
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts German Bight Set12.
-
+  Weser - Bremen bis Helgoland & Jade
+  
 Package: opencpn-bsb3-xx-de13
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts German Bight Set13.
+  Ostfriesland - Borkum bis Helgoland & Ems
 
 Package: opencpn-bsb3-xx-dk09
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts North Sea Set09.
+  Skagen to Rømø & Limfjord
+
 
