@@ -12,35 +12,41 @@ Package: opencpn-bsb3-xx-balt01
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts for BALT01.
+  Around Funen - Kiel Bay
 
 Package: opencpn-bsb3-xx-balt02
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts for BALT02.
+  Bay of Lübeck - Bornholm
 
 Package: opencpn-bsb3-xx-balt03
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts for BALT03.
+  Samsø - Sund - Kattegat
 
 Package: opencpn-bsb3-xx-balt04
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts for BALT04.
+  Around Rügen - Bodden waters - Szczecin
 
 Package: opencpn-bsb3-xx-balt051
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts for BALT051.
+  Swedish west coast north - Norwegian border to Lysekil
 
 Package: opencpn-bsb3-xx-balt052
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts for BALT052.
+  Swedish west coast south
 
 Package: opencpn-bsb3-xx-balt06
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts for BALT06.
-
+  Poland, Latvia Lithuania
 
