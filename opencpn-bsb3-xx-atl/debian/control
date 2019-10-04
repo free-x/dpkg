@@ -12,13 +12,19 @@ Package: opencpn-bsb3-xx-atl1
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Atlantic Set1.
+  Falmouth to Vigo / North Coast of Spain 
+  NOT TO BE USED FOR NAVIGATION
 
 Package: opencpn-bsb3-xx-atl2
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Atlantic Set2.
+  Vigo to Gibraltar 
+  NOT TO BE USED FOR NAVIGATION
 
 Package: opencpn-bsb3-xx-atl3
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Atlantic Set3.
+  Atlantic Islands / Madeira - Canary Islands - Azores - Cape Verde 
+  NOT TO BE USED FOR NAVIGATION

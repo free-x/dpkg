@@ -12,24 +12,35 @@ Package: opencpn-bsb3-xx-uk1
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts UK Set1.
+  Isles of Scilly to Start Point
+  NOT TO BE USED FOR NAVIGATION  
 
 Package: opencpn-bsb3-xx-uk2
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts UK Set2.
+  Start Point to the Needles 
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-uk3
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts UK Set3.
+  The Solent 
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-uk4
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts UK Set4.
+  Selsey Bill to London 
+  NOT TO BE USED FOR NAVIGATION 
+ 
 
 Package: opencpn-bsb3-xx-uk5
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts UK Set5.
+  Thames Estuary to Great Yarmouth 
+  NOT TO BE USED FOR NAVIGATION 
 

@@ -13,64 +13,75 @@ Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Caribbean Set9.1.
   Bahamas North West, Bimini & Berry Islands, Nassau to Abaco, Grand Bahama
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-car092
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Caribbean Set9.2.
   Bahamas Central, Andros to Exumas & Eleuthera Islands
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-car093
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Caribbean Set9.3.
   Bahamas South East, Cat & Long Islands, Rum Cay to Turks and Caicos
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-car101
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Caribbean Set10.1.
   Cuba Northeast, Cabo Maisi to Varadero
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-car102
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Caribbean Set10.2.
   Cuba Northwest, Varadero, Havana to Cabo San Antonio
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-car103
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Caribbean Set10.3.
   Cuba Southwest, Cabo de San Antonio to Cienfuegos
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-car104
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Caribbean Set10.4.
   Cuba Southeast, Cienfuegos to Cabo Maisi
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-car111
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Caribbean Set11.1.
   Puerto Rico • Dominican Republic - Spanish Virgin Islands
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-car121
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Caribbean Set12.1.
   Virgin Islands, St. Thomas to Sombrero
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-car122
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Caribbean Set12.2.
   Leeward Islands, Anguilla to Dominica
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-car123
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Caribbean Set12.3.
   Windward Islands, Martinique to Grenada
+  NOT TO BE USED FOR NAVIGATION 
 

@@ -12,18 +12,26 @@ Package: opencpn-bsb3-xx-it1
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Italy Set1.
+  Menton to Elba 
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-it2
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Italy Set2.
+  Elba to Naples 
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-it3
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Italy Set3.
+  Sardinia East 
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-it4
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Italy Set4.
+  Sardinia West 
+  NOT TO BE USED FOR NAVIGATION 

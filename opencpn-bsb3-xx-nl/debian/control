@@ -13,27 +13,32 @@ Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Netherland Set1.
   Borkum naar Oostende
+  NOT TO BE USED FOR NAVIGATION
 
 Package: opencpn-bsb3-xx-nl2
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Netherland Set2.
   Waddenzee
+  NOT TO BE USED FOR NAVIGATION
 
 Package: opencpn-bsb3-xx-nl3
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Netherland Set3.
   IJsselmeer en Randmeren
+  NOT TO BE USED FOR NAVIGATION
 
 Package: opencpn-bsb3-xx-nl4
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Netherland Set4.
   Rijn & Maas Delta
+  NOT TO BE USED FOR NAVIGATION
 
 Package: opencpn-bsb3-xx-nl5
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Netherland Set5.
   Ooster- & Westerschelde
+  NOT TO BE USED FOR NAVIGATION

@@ -12,15 +12,20 @@ Package: opencpn-bsb3-xx-es1
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Spain Set1.
+  Cabo Creus to Cabo San Antonio 
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-es2
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Spain Set2.
+  Balearic Islands · Ibiza to Menorca 
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-es3
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Spain Set3.
-
+  Cabo San Antonio to Gibraltar 
+  NOT TO BE USED FOR NAVIGATION 
 

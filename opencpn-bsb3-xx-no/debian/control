@@ -12,28 +12,40 @@ Package: opencpn-bsb3-xx-no1
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Norway Set1.
+  Oslofjord Nord - Oslo til Tønsberg 
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-no2
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Norway Set2.
+  Oslofjord Sør - Svenska Grensen til Kragerø 
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-no3
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Norway Set3.
+  Sørlandet Øst - Kristiansand til Kragerø 
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-no4
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Norway Set4.
+  Sørlandet Vest - Flekkefjord til Kristiansand 
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-no5
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Norway Set5.
+  Sørvestlandet Sør - Flekkefjord til Stavanger 
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-no6
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts Norway Set6.
+  Sørvestlandet Nord - Stavanger til Haugesund 
+  NOT TO BE USED FOR NAVIGATION 

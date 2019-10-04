@@ -13,66 +13,76 @@ Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts France Set1.
   La Manche - Oostende à Cherbourg  
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-fr2
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts France Set2.
   Cherbourg à St. Malo
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-fr3
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts France Set3.
   St. Malo aux Sept Îles
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-fr4
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts France Set4.
   Les Sept Îles à Douarnenez
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-fr5
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts France Set5.
   Douarnenez à Lorient
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-fr6
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts France Set6.
   Lorient à I'lle de Noirmoutier Nantes
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-fr7
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts France Set7.
   Iles de Noirmoutier à Oléron - La Rochelle
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-fr8
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts France Set8.
   La Rochelle à San Sebastian - Bordeaux
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-fr9
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts France Set9.
   Cabo Creus to Toulon
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-fr10
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts France Set10.
   Toulon to Menton - Monaco
+  NOT TO BE USED FOR NAVIGATION 
 
 Package: opencpn-bsb3-xx-fr11
 Architecture: all
 Depends: opencpn
 Description: BSB3/KAP RNC Charts France Set11.
   Corsica
-
+  NOT TO BE USED FOR NAVIGATION 
 
 
