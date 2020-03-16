@@ -42,3 +42,18 @@ Depends: opencpn
 Description: BSB3/KAP RNC Charts Netherland Set5.
   Ooster- & Westerschelde
   NOT TO BE USED FOR NAVIGATION
+
+#Package: opencpn-bsb3-xx-nl6
+#Architecture: all
+#Depends: opencpn
+#Description: BSB3/KAP RNC Charts Netherland Set6.
+#  Waterkaart Nederland Noord, Friesland - Arnhem
+#  NOT TO BE USED FOR NAVIGATION
+
+#Package: opencpn-bsb3-xx-nl7
+#Architecture: all
+#Depends: opencpn
+#Description: BSB3/KAP RNC Charts Netherland Set7.
+#  Waterkaart Nederland Zuid, Arnhem - Maastricht
+#  NOT TO BE USED FOR NAVIGATION
+
