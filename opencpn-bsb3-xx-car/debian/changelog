@@ -1,11 +1,11 @@
 opencpn-bsb3-xx-car (201904-1) buster; urgency=low
 
-  * NV_Reg12_1_2019_04
-  * NV_Reg12_2_2018_09
-  * NV_Reg12_3_2018_01
-  * NV_Reg9_[123]_2016
-  * NV_Reg10_[1234]_2015
-  * NV_Reg11_1_2016
+  * Reg12_1_2019_04
+  * Reg12_2_2018_09
+  * Reg12_3_2018_01
+  * Reg9_[123]_2016
+  * Reg10_[1234]_2015
+  * Reg11_1_2016
 
  -- free-x <oss.boating@gmail.com>  Sat, 30 Aug 2019 15:56:15 +0100 
 
